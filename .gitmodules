@@ -1,0 +1,12 @@
+[submodule "audio_hdmi_8series"]
+	path = audio_hdmi_8series
+	url = git@github.com:toleda/audio_hdmi_8series.git
+[submodule "audio_CloverHDMI"]
+	path = audio_CloverHDMI
+	url = git@github.com:toleda/audio_CloverHDMI.git
+[submodule "ssdtPRGen.sh"]
+	path = ssdtPRGen.sh
+	url = https://github.com/Piker-Alpha/ssdtPRGen.sh
+[submodule "audio_CloverALC"]
+	path = audio_CloverALC
+	url = https://github.com/toleda/audio_CloverALC
